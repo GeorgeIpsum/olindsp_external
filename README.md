@@ -2,10 +2,6 @@
 the front facing website for olindsp.org, uses the Creative Bootstrap theme: https://startbootstrap.com/template-overviews/creative/
 
 ## TODO
-[ ] create About Us page  
-[ ] create Brothers page  
-[ ] create Events page  
-[ ] create FAQs page  
 [ ] link Sign Up link  
 [ ] restylize Sign Up link  
 [ ] change text under DSP AX FALL RUSH  
